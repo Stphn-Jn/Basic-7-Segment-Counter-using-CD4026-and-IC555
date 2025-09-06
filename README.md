@@ -11,13 +11,15 @@ Manual Counter with Reset – Manual counting with reset to zero at any point (e
 
 Perfect for beginners learning digital electronics, counters, and 7-segment display control.
 
-Components Used
-Qty	Component
-1x	IC555 Timer
-1x	CD4026 Decade Counter
-1x	LED (clock signal indicator)
-3x	1kΩ Resistor
-1x	470Ω Resistor
-1x	5kΩ Potentiometer
-1x	7-Segment Common Cathode Display
-–	Jumper Wires
+### Components Used  
+
+| Qty | Component                        |
+|-----|----------------------------------|
+| 1x  | IC555 Timer                      |
+| 1x  | CD4026 Decade Counter            |
+| 1x  | LED (clock signal indicator)     |
+| 3x  | 1kΩ Resistor                     |
+| 1x  | 470Ω Resistor                    |
+| 1x  | 5kΩ Potentiometer                |
+| 1x  | 7-Segment Common Cathode Display |
+| –   | Jumper Wires                     |
